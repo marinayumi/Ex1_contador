@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botões</string>
+    <string name="numero">0</string>
+    <string name="decrementar">decrementar</string>
+    <string name="incrementar">incrementar</string>
+    <string name="mensagemDec">Contador só pode decrementar até 0</string>
+</resources>
